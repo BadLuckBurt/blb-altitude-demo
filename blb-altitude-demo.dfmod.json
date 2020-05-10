@@ -1,0 +1,14 @@
+{
+    "ModTitle": "Altitude Demo",
+    "ModVersion": "0.1",
+    "ModAuthor": "BadLuckBurt",
+    "ContactInfo": "x",
+    "DFUnity_Version": "0.10.23",
+    "ModDescription": "Displays the player's altitude every 5 seconds",
+    "GUID": "efee88ec-e351-4bca-8dfd-98c7b66839dc",
+    "Files": [
+        "Assets/Game/Mods/blb-altitude-demo/BLB_Altitude_Demo.cs"
+    ],
+    "Contributes": null,
+    "Dependencies": null
+}
